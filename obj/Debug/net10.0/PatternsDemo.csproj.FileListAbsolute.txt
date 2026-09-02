@@ -1,0 +1,14 @@
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\bin\Debug\net10.0\PatternsDemo.exe
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\bin\Debug\net10.0\PatternsDemo.deps.json
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\bin\Debug\net10.0\PatternsDemo.runtimeconfig.json
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\bin\Debug\net10.0\PatternsDemo.dll
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\bin\Debug\net10.0\PatternsDemo.pdb
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\obj\Debug\net10.0\PatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\obj\Debug\net10.0\PatternsDemo.AssemblyInfoInputs.cache
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\obj\Debug\net10.0\PatternsDemo.AssemblyInfo.cs
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\obj\Debug\net10.0\PatternsDemo.csproj.CoreCompileInputs.cache
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\obj\Debug\net10.0\PatternsDemo.dll
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\obj\Debug\net10.0\refint\PatternsDemo.dll
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\obj\Debug\net10.0\PatternsDemo.pdb
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\obj\Debug\net10.0\PatternsDemo.genruntimeconfig.cache
+C:\Users\miguel.loeblein\Documents\ProjetoPattern\obj\Debug\net10.0\ref\PatternsDemo.dll
